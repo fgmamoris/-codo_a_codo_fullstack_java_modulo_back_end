@@ -3,7 +3,7 @@
  * apellido, edad, hobbie, editor de código preferido, sistema operativo que
  * utiliza, luego deberá mostrarse por consola los datos ingresados.
  */
-package com.fullstackjava.actividad_obligatoria;
+package com.fullstackjava.actividad_obligatoria_unidad_2;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
@@ -12,7 +12,7 @@ import java.util.Scanner;
  *
  * @author Federico Mamoris
  */
-public class ActividadObligatoria {
+public class ActividadObligatoriaUnidad2 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
